@@ -1,2 +1,3 @@
 # bookmarks
-Bunch of docs with useful info
+A repo to catalog all of the useful programming links I find on the web.  
+See the wiki of this repo for the bookmarks.
